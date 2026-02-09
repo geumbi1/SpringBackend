@@ -1,6 +1,6 @@
-package com.example.demo.springMVC.variousRequest.controller;
+package com.example.demo.springMVC.variousRequest.controller.request;
 
-import com.example.demo.springMVC.variousRequest.UserRequest;
+import com.example.demo.springMVC.variousRequest.dto.UserRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

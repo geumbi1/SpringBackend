@@ -1,4 +1,4 @@
-package com.example.demo.springMVC.variousRequest.controller;
+package com.example.demo.springMVC.variousRequest.controller.hello;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

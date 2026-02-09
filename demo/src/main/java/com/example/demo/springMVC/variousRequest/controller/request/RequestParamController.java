@@ -1,4 +1,4 @@
-package com.example.demo.springMVC.variousRequest.controller;
+package com.example.demo.springMVC.variousRequest.controller.request;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

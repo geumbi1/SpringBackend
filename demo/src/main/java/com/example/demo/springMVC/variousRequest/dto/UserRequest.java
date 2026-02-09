@@ -1,4 +1,4 @@
-package com.example.demo.springMVC.variousRequest;
+package com.example.demo.springMVC.variousRequest.dto;
 
 public class UserRequest {
     private String name;

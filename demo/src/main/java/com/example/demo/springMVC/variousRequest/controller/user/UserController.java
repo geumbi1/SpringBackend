@@ -1,4 +1,4 @@
-package com.example.demo.springMVC.variousRequest.controller;
+package com.example.demo.springMVC.variousRequest.controller.user;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
